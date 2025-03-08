@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Katykaze
 - 👀 I’m interested in Development's Web Applications
-- 🌱 I’m currently learning FPGS Daw 
-- 💞️ I’m looking to collaborate with you 
+- 🐞 Debuggin my own creations since 2021
 - 📫 How to reach me on Instagram @katykaze. I'm a rockclimber 🧗🏽‍♀️✨💖
 
 <!---
